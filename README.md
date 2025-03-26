@@ -122,6 +122,18 @@ python manage.py createsuperuser
 
 ---
 
+## Screnshots
+
+![Create Task](images/createtask1.jpeg)
+![Create Task](images/createtask2.jpeg)
+![Assign Task](images/assigntask1.jpeg)
+![Assign Task](images/assigntask2.jpeg)
+![User Tasks](images/usersTasks.jpeg)
+
+
+--- 
+
+
 ## Contributing
 Feel free to fork this repository and submit a pull request with any improvements!
 
